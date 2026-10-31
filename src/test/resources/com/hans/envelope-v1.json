@@ -1,0 +1,38 @@
+{
+  "envelope": "rsbuddy-upload",
+  "version": 1,
+  "account": {
+    "hash": "-4611686018427387904",
+    "mode": "main",
+    "name": "Synth Alpha"
+  },
+  "device": {
+    "keyId": "0123456789abcdef0123456789abcdef"
+  },
+  "captureRevision": 1,
+  "seq": 10001,
+  "sentAt": "2026-01-01T00:00:05Z",
+  "categories": {
+    "skills": {
+      "capturedAt": "2026-01-01T00:00:03Z",
+      "data": {
+        "xp": {
+          "ATTACK": 1154,
+          "HITPOINTS": 1300,
+          "FARMING": 101333
+        }
+      }
+    },
+    "inventory": {
+      "capturedAt": "2026-01-01T00:00:04Z",
+      "data": {
+        "items": [
+          [5295, 3],
+          [-1, 0],
+          [952, 1],
+          [6036, 12]
+        ]
+      }
+    }
+  }
+}
